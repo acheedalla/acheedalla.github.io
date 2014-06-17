@@ -1,7 +1,20 @@
 *{
 	font-family: Open Sans;
+	background-color: #1abc9c;
 }
 #title {
 	text-align: center;
-	font-style: bold;
+	font-size: 36px;
+	margin: 0px;
+
+
+}
+#email{
+	text-align: center;
+	margin: 0px;
+}
+
+#pic{
+	float: left;
+	text-align: center;
 }
