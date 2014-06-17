@@ -27,8 +27,3 @@
 	height: inherit;
 }
 
-[class*="col-"] {
-    float: none;
-    display: table-cell;
-    vertical-align: top;
-}
