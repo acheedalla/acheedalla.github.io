@@ -17,16 +17,12 @@
 	padding-left: 4px;
 }
 
-#edu{
-	height: inherit;
-}
-
 .col-sm-2{
 	padding-top: 8px;
 }
 
 .captions{
 	background-color: gray;
-text-align: center;
-
+	text-align: center;
+	height: inherit;
 }
