@@ -12,5 +12,7 @@
 }
 
 .col-sm-4{
-	padding-top: 5px;
+	padding-top: 4px;
+	padding-right: 2px;
+	padding-left: 2px;
 }
