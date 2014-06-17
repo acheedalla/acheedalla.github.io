@@ -19,6 +19,7 @@
 
 #edu{
 	background-color: gray;
+	height: inherit;
 }
 
 .col-sm-2{
