@@ -19,7 +19,7 @@ a:hover, a:focus {
 	color: #cccccc;
 }
 a:active, a:focus {
-	color: #ffffff;
+	color: #7f8c8d;
 	border: none;
 }
 
@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 400;
 }
 h1	{	font-size: 3em;
-	color: #cccccc;
+	color: #7f8c8d;
 	background: #ecf0f1;
 	padding: 0px 0px;
 	float: left;
@@ -78,7 +78,7 @@ h3 {
 	float: right; 
 	padding: 0px 0px 0px 0px; 
 	font-size: 14px; 
-	color: #b5b5b5;
+	color: #7f8c8d;
 	margin: 30px 40px 20px 0px;
 }
 
@@ -269,15 +269,15 @@ h2.resp-accordion	{ color: #ffffff; }
 /*----- Page Load ------*/
 
 @media(min-width:320px) {
-	.templatemo_leftgap	{ padding: 0px 10px; }
-	.templatemo_rightgap_about	{ padding: 0px 10px; }
-	.templatemo_botgap	{ margin: 0px 0px 20px 0px; }
+	.templatemo_leftgap	{ padding: 0px 5px; }
+	.templatemo_rightgap_about	{ padding: 0px 5px; }
+	.templatemo_botgap	{ margin: 0px 0px 10px 0px; }
 	.templatemo_topgap, .templatemo_portfotopgap	{ margin-top: 20px; }
 	.templatemo_col37	{ float: left; width: 100%; }
 	.resp-vtabs .templatemo_aboutcontainer, .resp-vtabs .templatemo_testicontainer	{ width: 100%; }
 	.templatemo_aboutlinkwrapper{ display: none; }
 	.templatemo_aboutlinkwrapper1{  display: block; }
-	.templatemo_frame	{ padding: 0px 30px 30px 30px; }
+	.templatemo_frame	{ padding: 0px 15px 15px 15px; }
 	.templatemo_link { padding-top: 20%; }
 	.logocontainer	{ padding: 0px 15px; margin: 0 auto; }
 	.templatemo_insideportfolio	{ padding-bottom: 30px; }
@@ -288,7 +288,7 @@ h2.resp-accordion	{ color: #ffffff; }
 	/*.container	{ left: 15px; right: 15px; padding: 0px; }*/
 }
 @media(min-width:768px) {
-	.templatemo_leftgap	{ padding: 0px 10px; }
+	.templatemo_leftgap	{ padding: 0px 5px; }
 	.templatemo_botgap	{ margin: 0px 0px 20px 0px; }
 	.templatemo_topgap	{	margin-top: 20px; }
 	.templatemo_portfotopgap	{ margin-top: 0px; } 
@@ -300,7 +300,7 @@ h2.resp-accordion	{ color: #ffffff; }
 }
 
 @media(min-width:992px) {
-	.templatemo_leftgap	{ padding: 0px 6px; }
+	.templatemo_leftgap	{ padding: 0px 5px; }
 	.templatemo_rightgap_about	{ padding: 0px 6px 0px 2px; }
 	.templatemo_botgap	{ margin: 0px 0px 12px 0px; }
 	.templatemo_topgap	{	margin-top: 0px; }
@@ -332,9 +332,9 @@ h2.resp-accordion	{ color: #ffffff; }
 }
 
 @media(min-width:1200px) {
-	.templatemo_leftgap	{ padding: 0px 8px; }
+	.templatemo_leftgap	{ padding: 0px 5px; }
 	.templatemo_rightgap_about	{ padding: 0px 8px; }
-	.templatemo_botgap	{ margin: 0px 0px 16px 0px; }
+	.templatemo_botgap	{ margin: 0px 0px 10px 0px; }
 	.templatemo_topgap	{ margin-top: 0px; }
 	.templatemo_portfotopgap	{ margin-top: 0px; }
 	.templatemo_bordergapborder	{ padding: 0px 16px; }
