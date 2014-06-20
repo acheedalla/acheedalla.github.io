@@ -33,3 +33,24 @@ img{width:100%;height:100%}
   background: #DA635D;
   width: 25%;
 }
+
+.mason .item.w2 {
+  height: 400px;
+  float: left;
+  background: #DA635D;
+  width: 40%;
+}
+
+.mason .item.w3 {
+  height: 400px;
+  float: left;
+  background: #DA635D;
+  width: 50%;
+}
+
+.mason .item.b2 {
+  height: 400px;
+  float: left;
+  background: #DA635D;
+  width: 55%;
+}
