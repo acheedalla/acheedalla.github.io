@@ -52,13 +52,13 @@ mason .item.w2 {
 }
 
 .masonry .item {
-  width:  60px;
-  height: 60px;
+  width:  100px;
+  height: 100px;
   float: left;
-  background: #D26;
-  border: 2px solid #333;
+  background: #DA635D;
+  border: 2px solid #4E4E56;
   border-color: hsla(0, 0%, 0%, 0.5);
-  border-radius: 5px;
+  border-radius: 0px;
 }
 
 .item.w2 { width:  120px; }
