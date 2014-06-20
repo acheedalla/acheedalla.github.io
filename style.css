@@ -87,7 +87,6 @@ a img {
 .caption {
 	display: inline-block;
 	position: relative;
-	margin: 10px;
 }
 
 .caption img {
@@ -111,7 +110,7 @@ a img {
 	content: attr(data-title);
 	top: 0;
 	height: 30%;
-	background: #a21f00;
+	background: #4E4E56;
 	font-size: 40px;
 	font-weight: 300;
 }
@@ -120,7 +119,7 @@ a img {
 	content: '\201C' attr(data-description) '\201D';
 	top: 30%;
 	height: 70%;
-	background: #db2e00;
+	background: 	 #DCD0C0;
 	font-size: 16px;
 	text-align: right;
 }
