@@ -50,7 +50,6 @@ mason .item.w2 {
 .masonry {
   max-width: 1500px;
   padding: 10px;
-  padding-left: 15px;
 }
 
 .masonry .item {
