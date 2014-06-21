@@ -49,7 +49,6 @@ mason .item.w2 {
 
 .masonry {
   max-width: 1500px;
-  padding: 10px;
 }
 
 .masonry .item {
