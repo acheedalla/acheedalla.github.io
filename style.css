@@ -58,15 +58,6 @@ mason .item.w2 {
   background: #DCD0C0;
 }
 
-.item.w2 { width:  120px; }
-.item.w3 { width:  180px; }
-.item.w4 { width:  240px; }
-
-.item.h2 { height: 100px; }
-.item.h3 { height: 130px; }
-.item.h4 { height: 180px; }
-
-
 *, *:after, *:before { 
 	-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; 
 }
