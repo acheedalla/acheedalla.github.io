@@ -48,11 +48,12 @@ mason .item.w2 {
 
 
 .masonry {
-  max-width: 1444px;
+  width: 1200px;
+  margin: auto;
 }
 
 .masonry .item {
-  width:  360px;
+  width:  300px;
   height: 250px;
   float: left;
   background: #DCD0C0;
