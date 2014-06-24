@@ -91,7 +91,7 @@ a img {
 	padding: 20px;
 	-webkit-transition: opacity 0.3s;
 	-moz-transition: opacity 0.3s;
-	transition: opacity 0.3s;
+	/*transition: opacity 0.3s;*/
 }
 
 .caption::before {
@@ -113,6 +113,6 @@ a img {
 }
 
 .caption:hover::before
-/*.caption:hover::after*/ {
+.caption:hover::after {
 	opacity: 0.95;
 }
