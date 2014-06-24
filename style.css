@@ -112,7 +112,7 @@ a img {
 	text-align: right;
 }
 
-/*.caption:hover::before,
+/*.caption:hover::before,*/
 .caption:hover::after {
 	opacity: 0.95;
-}*/
+}
