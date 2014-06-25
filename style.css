@@ -87,7 +87,7 @@ a img {
 	position: absolute;
 	width: 100%;
 	color: #fff;
-	padding: 20px;
+	/*padding: 20px;*/
 	-webkit-transition: opacity 0.3s;
 	-moz-transition: opacity 0.3s;
 	transition: opacity 0.3s;
