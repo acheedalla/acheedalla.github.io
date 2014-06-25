@@ -55,7 +55,7 @@ mason .item.w2 {
 .masonry .item {
   width:  300px;
   float: left;
-  background-image: "amani blue rect.jpg";
+  background-image: url('amani blue rect.jpg');
 }
 
 *, *:after, *:before { 
