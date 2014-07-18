@@ -19,7 +19,26 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700' rel='stylesheet' type='text/css'>
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-
+<div class="navbar navbar-fixed-top">
+  <div class="container">
+    <div class="col-md-4">
+      <button type="button" class="btn btn-responsive btn-primary" name="Home">
+        <span class="glyphicon glyphicon-home mobileIcon"></span>
+      </button>
+      <button type="button" class="btn btn-responsive btn-info" name="Archive">
+        <span class="glyphicon glyphicon-folder-open mobileIcon"></span>
+      </button>
+    </div>
+    <div class="col-md-4">
+      <h3>Active Expense Reports</h3>
+    </div>
+    <div class="col-md-4">
+      <button type="button" class="btn btn-responsive btn-success pull-right" name="Create Expense Report" ng-click="createExpenseReport()">
+        <span class="glyphicon glyphicon-plus-sign mobileIcon"></span>
+      </button>
+    </div>
+  </div>
+</div>
 </head>
 <body>
 	<!--<div class="container-fluid">
